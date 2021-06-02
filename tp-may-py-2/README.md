@@ -1,6 +1,6 @@
 # Project name
 
-#### Mentor
+####  Lourde Mary T
 
 > 
 
@@ -8,10 +8,10 @@
 
 ||Name|
 |-|-|
-|1||
-|2||
-|3||
-|4||
+|1|Amrutha k V|
+|2|Jayamani T|
+|3|Sagar Dhandare|
+|4|Thejaswini A|
 
 #### About Project 
 
